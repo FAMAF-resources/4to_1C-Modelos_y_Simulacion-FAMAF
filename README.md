@@ -1,8 +1,8 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/4to_1C-Modelos_y_Simulacion-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Modelos y Simulacion - FAMAF - Computacion
 
-> Cuatrimestre
+> 1C
 
 Necesita tener aprobada:
 
@@ -10,12 +10,13 @@ Necesita tener aprobada:
 
 Es correlativa de:
 
-- 1
+- Paradigmas de la Programacion
+- Probabilidad y Estadistica
 
 ## Clonar el repositorio
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:FAMAF-resources/4to_1C-Modelos_y_Simulacion-FAMAF.git
 ```
 
 # Contribuciones
@@ -23,6 +24,6 @@ git clone <repo-url>
 Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/4to_1C-Modelos_y_Simulacion-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/4to_1C-Modelos_y_Simulacion-FAMAF"/>
 </a>
