@@ -6,12 +6,12 @@
 
 Necesita tener aprobada:
 
-- 1
+- Paradigmas de la Programacion
+- Probabilidad y Estadistica
 
 Es correlativa de:
 
-- Paradigmas de la Programacion
-- Probabilidad y Estadistica
+- Ninguna.
 
 ## Clonar el repositorio
 
